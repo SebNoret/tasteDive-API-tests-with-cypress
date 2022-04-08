@@ -1,0 +1,23 @@
+[
+  {
+    "key": "allParams",
+    "band": "Korn",
+    "type": "band",
+    "info": 1,
+    "limit": 5
+  },
+  {
+    "key": "emptyParams",
+    "band": "",
+    "type": "",
+    "info": 0,
+    "limit": 0
+  },
+  {
+    "key": "withoutInfoParam",
+    "band": "Korn",
+    "type": "band",
+    "info": 0,
+    "limit": 5
+  }
+]
